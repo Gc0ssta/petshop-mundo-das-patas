@@ -1,0 +1,14 @@
+# Orientações e material acadêmico mantidos apenas no computador.
+AGENTS.md
+CONTEXTO_FASE1.md
+*.pdf
+*.PDF
+
+# Configurações locais, credenciais e arquivos do sistema.
+.codex/
+.agents/
+.env
+.env.*
+Thumbs.db
+Desktop.ini
+.DS_Store
